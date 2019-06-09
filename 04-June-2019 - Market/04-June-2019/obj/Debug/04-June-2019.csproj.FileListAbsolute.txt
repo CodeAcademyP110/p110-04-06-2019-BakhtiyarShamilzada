@@ -1,0 +1,34 @@
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\bin\Debug\04-June-2019.exe.config
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\bin\Debug\04-June-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\bin\Debug\04-June-2019.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\04-June-2019.csprojAssemblyReference.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.Properties.Resources.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\04-June-2019.csproj.GenerateResource.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\04-June-2019.csproj.CoreCompileInputs.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\04-June-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\04-June-2019.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.HomePage.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.Categories.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.AddProduct.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.AddCategory.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.UpdateCategory.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.DeleteCategory.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.DeleteProduct.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019\04-June-2019\obj\Debug\_04_June_2019.UpdateProduct.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\bin\Debug\04-June-2019.exe.config
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\bin\Debug\04-June-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\bin\Debug\04-June-2019.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\04-June-2019.csprojAssemblyReference.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.AddCategory.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.AddProduct.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.Categories.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.DeleteCategory.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.DeleteProduct.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.HomePage.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.Properties.Resources.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.UpdateCategory.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\_04_June_2019.UpdateProduct.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\04-June-2019.csproj.GenerateResource.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\04-June-2019.csproj.CoreCompileInputs.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\04-June-2019.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019 - Market\04-June-2019\obj\Debug\04-June-2019.pdb
