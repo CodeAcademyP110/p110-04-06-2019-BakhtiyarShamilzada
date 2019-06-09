@@ -1,0 +1,16 @@
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\bin\Debug\04-June-2019-Phonebook.exe.config
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\bin\Debug\04-June-2019-Phonebook.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\bin\Debug\04-June-2019-Phonebook.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\04-June-2019-Phonebook.csprojAssemblyReference.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.HomePage.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.Properties.Resources.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\04-June-2019-Phonebook.csproj.GenerateResource.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\04-June-2019-Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\04-June-2019-Phonebook.exe
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\04-June-2019-Phonebook.pdb
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.Contacts.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.AddContact.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.UpdateContact.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.DeleteContact.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.SearchByName.resources
+C:\Users\BAKHTIYAR\Google Drive\Code Academy\04-June-2019-Phonebook\04-June-2019-Phonebook\obj\Debug\_04_June_2019_Phonebook.SearchByNumber.resources
